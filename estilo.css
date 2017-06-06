@@ -1,0 +1,155 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-family: "Comic Sans MS", Arial, Verdana;
+}
+#principal {
+	margin: auto;
+	width: 700px;
+	background-color: #CCCCCC;
+}
+#logo {
+	position: relative;
+	height: 90px;
+	width: 190px;
+	float: left;
+	text-align: center;
+	border: 5px ridge #FFFFFF;
+}
+#logobox {
+	height: 30px;
+	width: 100px;
+	text-align: center;
+	border: 5px ridge #FFFFFF;
+	background-color: #00FF00;
+	padding: 20px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#alunos {
+	height: 90px;
+	width: 490px;
+	position: relative;
+	float: right;
+	text-align: center;
+	border: 5px ridge #FFFFFF;
+}
+#lateral {
+	width: 190px;
+	position: relative;
+	float: left;
+	text-align: center;
+	border: 5px ridge #FFFFFF;
+}
+#lateralbox {
+	width: 140px;
+	border: 5px ridge #FFFFFF;
+	margin: 10px;
+	padding: 10px;
+	position: relative;
+	background-color: #00FF00;
+}
+#conteudo {
+	width: 470px;
+	position: relative;
+	float: right;
+	padding: 10px;
+	border: 5px ridge #FFFFFF;
+}
+#info {
+	border: 5px ridge #FFFFFF;
+	position: absolute;
+	background-color: #999999;
+	visibility: hidden;
+	padding: 5px;
+}
+#conteudo_01 {
+	width: 250px;
+	float: left;
+	padding: 10px;
+	border: 5px ridge #FFFFFF;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #00FFFF;
+	height: 300px;
+}
+#conteudo_02 {
+	height: 300px;
+	width: 140px;
+	padding: 10px;
+	float: right;
+	border: 5px ridge #FFFFFF;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #FFFF00;
+}
+#conteudo_03 {
+	padding: 10px;
+	width: 440px;
+	clear: left;
+	border: 5px ridge #FFFFFF;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #FF00FF;
+}
+#fim {
+	height: 35px;
+	width: 690px;
+	position: relative;
+	text-align: center;
+	clear: both;
+	font-size: 12px;
+	border: 5px ridge #FFFFFF;
+}
+#galeriafoto {
+	margin: auto;
+	width: 644px;
+	border: 3px ridge #FFFFFF;
+	text-align: center;
+	padding: 5px;
+}
+#galeriavideo {
+	margin: auto;
+	width: 430px;
+	border: 3px ridge #FFFFFF;
+	text-align: center;
+	padding: 5px;
+}
+#cadgeografia, #cadbiologia, #cadsociologia {
+	position:relative;
+}
+.titulo {
+	font-size: 20px;
+	text-align: center;
+}
+.texto {font-size: 12px}
+.tabela {
+	text-align: center;
+	font-size: 15px;
+	border-top-style: ridge;
+	border-right-style: ridge;
+	border-bottom-style: ridge;
+	border-left-style: ridge;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:active {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}

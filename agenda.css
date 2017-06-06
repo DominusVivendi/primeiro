@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+#mes {
+	position: relative;
+	height: 300px;
+	width: 260px;
+	margin: auto;
+}
+#janeiro {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}
+#fevereiro {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}
+#marco {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}
+#abril {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}
+#maio {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}
+#junho {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: visible;
+}
+#julho {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}
+#agosto {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}
+#setembro {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}
+#outubro {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}
+#novembro {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}
+#dezembro {
+	position: absolute;
+	height: 300px;
+	width: 260px;
+	text-align: center;
+	visibility: hidden;
+}#dia {
+	position: relative;
+	width: 300px;
+	height: 390px;
+	border: 3px ridge #FFFFFF;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	overflow: auto;
+	padding: 5px;
+}
